@@ -7,6 +7,9 @@ Add your api key
 get the API key from https://rapidapi.com/hub
 
 Install the apk from google drive link
+https://drive.google.com/drive/folders/1-MuAYi5A5srBz361ysz2R8aI-GdjFuY?usp=sharin
+
+
 
 THE API PLAN IS LIMITED IT CAN REQUEST ONLY UPTO 250 
 IF THE REQUEST EXCEEDS THAN NO DATA IS FETCHED
